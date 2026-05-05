@@ -1,0 +1,15 @@
+artifact_uri: file:./C:\Users\javie\OneDrive\CI_CD_diabetes\mlruns/c98791c7dab94045a2665d4fd418b68b/artifacts
+end_time: 1777940209496
+entry_point_name: ''
+experiment_id: '302832507875959158'
+lifecycle_stage: active
+run_id: c98791c7dab94045a2665d4fd418b68b
+run_name: nimble-finch-592
+run_uuid: c98791c7dab94045a2665d4fd418b68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777940196857
+status: 3
+tags: []
+user_id: javie
